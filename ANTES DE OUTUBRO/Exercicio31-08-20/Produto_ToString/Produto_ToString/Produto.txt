@@ -1,10 +1,10 @@
 using System;
 
-namespace POOProduto
+namespace Produto_ToString
 {
-	public class Produto
-	{
-		public string nome;
+    class Produto
+    {
+        public string nome;
 		public double preco;
 		public int quantidade;
 

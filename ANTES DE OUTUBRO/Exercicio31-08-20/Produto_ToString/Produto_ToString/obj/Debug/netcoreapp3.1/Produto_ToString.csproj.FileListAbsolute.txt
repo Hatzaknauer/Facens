@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\bin\Debug\netcoreapp3.1\Produto_ToString.exe
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\bin\Debug\netcoreapp3.1\Produto_ToString.deps.json
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\bin\Debug\netcoreapp3.1\Produto_ToString.runtimeconfig.json
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\bin\Debug\netcoreapp3.1\Produto_ToString.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\bin\Debug\netcoreapp3.1\Produto_ToString.dll
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\bin\Debug\netcoreapp3.1\Produto_ToString.pdb
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\obj\Debug\netcoreapp3.1\Produto_ToString.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\obj\Debug\netcoreapp3.1\Produto_ToString.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\obj\Debug\netcoreapp3.1\Produto_ToString.AssemblyInfo.cs
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\obj\Debug\netcoreapp3.1\Produto_ToString.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\obj\Debug\netcoreapp3.1\Produto_ToString.dll
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\obj\Debug\netcoreapp3.1\Produto_ToString.pdb
+C:\Users\hatza\source\repos\Produto_ToString\Produto_ToString\obj\Debug\netcoreapp3.1\Produto_ToString.genruntimeconfig.cache

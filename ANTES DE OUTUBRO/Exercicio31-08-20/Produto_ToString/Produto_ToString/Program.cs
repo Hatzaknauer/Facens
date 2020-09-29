@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
-namespace POOProduto
+
+namespace Produto_ToString
 {
     class Program
     {
@@ -9,7 +10,7 @@ namespace POOProduto
             Produto ps4 = new Produto();
 
             int a;
-            double x; 
+            double x;
 
             // Recebe o nome do console
             Console.Write("Digite o nome do console: ");
@@ -33,7 +34,7 @@ namespace POOProduto
             Console.Write("Quantos produtos gostaria de adicionar ao estoque? ");
             a = Int32.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             ps4.AdicionarProdutos(a);
-            
+
             // Calcula valor total
             x = ps4.ValorTotalEstoque(ps4.quantidade, ps4.preco);
 
@@ -48,8 +49,7 @@ namespace POOProduto
             // Calcula valor total
             x = ps4.ValorTotalEstoque(ps4.quantidade, ps4.preco);
 
-            // Exibe informações
-            Console.WriteLine("Dados atualizados: " + ps4.nome + ", " + ps4.quantidade + " unidades, Total: " + x.ToString("F2", CultureInfo.InvariantCulture) + "R$.");
+            Console.WriteLine(ps4.ToString());
         }
     }
 }
