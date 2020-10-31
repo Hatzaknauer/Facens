@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\bin\Debug\netcoreapp3.1\1012AtividadeComplementar.exe
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\bin\Debug\netcoreapp3.1\1012AtividadeComplementar.deps.json
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\bin\Debug\netcoreapp3.1\1012AtividadeComplementar.runtimeconfig.json
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\bin\Debug\netcoreapp3.1\1012AtividadeComplementar.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\bin\Debug\netcoreapp3.1\1012AtividadeComplementar.dll
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\bin\Debug\netcoreapp3.1\1012AtividadeComplementar.pdb
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\obj\Debug\netcoreapp3.1\1012AtividadeComplementar.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\obj\Debug\netcoreapp3.1\1012AtividadeComplementar.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\obj\Debug\netcoreapp3.1\1012AtividadeComplementar.AssemblyInfo.cs
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\obj\Debug\netcoreapp3.1\1012AtividadeComplementar.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\obj\Debug\netcoreapp3.1\1012AtividadeComplementar.dll
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\obj\Debug\netcoreapp3.1\1012AtividadeComplementar.pdb
+C:\Users\hatza\source\repos\1012AtividadeComplementar\1012AtividadeComplementar\obj\Debug\netcoreapp3.1\1012AtividadeComplementar.genruntimeconfig.cache

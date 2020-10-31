@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfLL2DHYcs6NXG5b8uAzh6E+rc4Bbg92YeMLYGhlJ/XKrDic0KpYQkWcMxQDDOBkhoBXQyppVqlFNA3i0T9dLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hatza\\source\\repos\\1019ArrayClasse\\1019ArrayClasse\\1019ArrayClasse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hatza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

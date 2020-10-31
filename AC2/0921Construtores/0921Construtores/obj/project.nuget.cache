@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i0aH+dXhON8GbAzQR44grT3O0ucm8RmLOw7FGa7v/mpRylZxUaWg8wtj/VrfRbs5159qtPMxdyJnh3G8C7rQOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hatza\\source\\repos\\0921Construtores\\0921Construtores\\0921Construtores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hatza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

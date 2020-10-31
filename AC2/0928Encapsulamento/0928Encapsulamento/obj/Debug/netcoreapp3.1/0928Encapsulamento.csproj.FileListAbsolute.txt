@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\bin\Debug\netcoreapp3.1\0928Encapsulamento.exe
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\bin\Debug\netcoreapp3.1\0928Encapsulamento.deps.json
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\bin\Debug\netcoreapp3.1\0928Encapsulamento.runtimeconfig.json
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\bin\Debug\netcoreapp3.1\0928Encapsulamento.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\bin\Debug\netcoreapp3.1\0928Encapsulamento.dll
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\bin\Debug\netcoreapp3.1\0928Encapsulamento.pdb
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\obj\Debug\netcoreapp3.1\0928Encapsulamento.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\obj\Debug\netcoreapp3.1\0928Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\obj\Debug\netcoreapp3.1\0928Encapsulamento.AssemblyInfo.cs
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\obj\Debug\netcoreapp3.1\0928Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\obj\Debug\netcoreapp3.1\0928Encapsulamento.dll
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\obj\Debug\netcoreapp3.1\0928Encapsulamento.pdb
+C:\Users\hatza\source\repos\0928Encapsulamento\0928Encapsulamento\obj\Debug\netcoreapp3.1\0928Encapsulamento.genruntimeconfig.cache
