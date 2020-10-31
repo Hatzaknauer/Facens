@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\bin\Debug\netcoreapp3.1\1021VetoresHotel.exe
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\bin\Debug\netcoreapp3.1\1021VetoresHotel.deps.json
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\bin\Debug\netcoreapp3.1\1021VetoresHotel.runtimeconfig.json
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\bin\Debug\netcoreapp3.1\1021VetoresHotel.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\bin\Debug\netcoreapp3.1\1021VetoresHotel.dll
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\bin\Debug\netcoreapp3.1\1021VetoresHotel.pdb
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\obj\Debug\netcoreapp3.1\1021VetoresHotel.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\obj\Debug\netcoreapp3.1\1021VetoresHotel.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\obj\Debug\netcoreapp3.1\1021VetoresHotel.AssemblyInfo.cs
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\obj\Debug\netcoreapp3.1\1021VetoresHotel.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\obj\Debug\netcoreapp3.1\1021VetoresHotel.dll
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\obj\Debug\netcoreapp3.1\1021VetoresHotel.pdb
+C:\Users\hatza\source\repos\1021VetoresHotel\1021VetoresHotel\obj\Debug\netcoreapp3.1\1021VetoresHotel.genruntimeconfig.cache
