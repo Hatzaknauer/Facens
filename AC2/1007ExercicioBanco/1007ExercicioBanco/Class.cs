@@ -30,8 +30,8 @@ namespace _1007ExercicioBanco
         //Cálculo de saque
         public void Saque(double qtd)
         {
-            saldo-= qtd;
-            saldo-= 5;
+            saldo -= qtd;
+            saldo -= 5;
         }
 
         //Método para alteração de nome
