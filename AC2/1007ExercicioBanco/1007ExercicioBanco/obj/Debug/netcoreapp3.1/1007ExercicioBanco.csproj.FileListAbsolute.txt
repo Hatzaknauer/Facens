@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\bin\Debug\netcoreapp3.1\1007ExercicioBanco.exe
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\bin\Debug\netcoreapp3.1\1007ExercicioBanco.deps.json
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\bin\Debug\netcoreapp3.1\1007ExercicioBanco.runtimeconfig.json
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\bin\Debug\netcoreapp3.1\1007ExercicioBanco.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\bin\Debug\netcoreapp3.1\1007ExercicioBanco.dll
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\bin\Debug\netcoreapp3.1\1007ExercicioBanco.pdb
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\obj\Debug\netcoreapp3.1\1007ExercicioBanco.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\obj\Debug\netcoreapp3.1\1007ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\obj\Debug\netcoreapp3.1\1007ExercicioBanco.AssemblyInfo.cs
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\obj\Debug\netcoreapp3.1\1007ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\obj\Debug\netcoreapp3.1\1007ExercicioBanco.dll
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\obj\Debug\netcoreapp3.1\1007ExercicioBanco.pdb
+C:\Users\hatza\source\repos\1007ExercicioBanco\1007ExercicioBanco\obj\Debug\netcoreapp3.1\1007ExercicioBanco.genruntimeconfig.cache

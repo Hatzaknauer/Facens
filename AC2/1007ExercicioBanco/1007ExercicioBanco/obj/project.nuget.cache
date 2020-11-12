@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXsZEep+LkpkufbnT9BszdPtcYC2wwtgeE77Xq1V7P/Qtz7Z6TT6h+rELFlHWQ6XYx5ok5/QUfsCiFGfijeBdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hatza\\source\\repos\\1007ExercicioBanco\\1007ExercicioBanco\\1007ExercicioBanco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hatza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
