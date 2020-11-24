@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FsPgsUmbfXFDRfDKDV19L92cN814tUSbQ6vihtBE9Misjn8o3eFy44FDhuLrRlC2jTkQnzDZ+FisRvdR7/Lfcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hatza\\source\\repos\\1026ExemploListas\\1026ExemploListas\\1026ExemploListas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hatza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

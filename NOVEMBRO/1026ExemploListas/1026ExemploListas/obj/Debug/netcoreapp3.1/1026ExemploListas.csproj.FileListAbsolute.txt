@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\bin\Debug\netcoreapp3.1\1026ExemploListas.exe
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\bin\Debug\netcoreapp3.1\1026ExemploListas.deps.json
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\bin\Debug\netcoreapp3.1\1026ExemploListas.runtimeconfig.json
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\bin\Debug\netcoreapp3.1\1026ExemploListas.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\bin\Debug\netcoreapp3.1\1026ExemploListas.dll
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\bin\Debug\netcoreapp3.1\1026ExemploListas.pdb
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\obj\Debug\netcoreapp3.1\1026ExemploListas.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\obj\Debug\netcoreapp3.1\1026ExemploListas.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\obj\Debug\netcoreapp3.1\1026ExemploListas.AssemblyInfo.cs
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\obj\Debug\netcoreapp3.1\1026ExemploListas.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\obj\Debug\netcoreapp3.1\1026ExemploListas.dll
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\obj\Debug\netcoreapp3.1\1026ExemploListas.pdb
+C:\Users\hatza\source\repos\1026ExemploListas\1026ExemploListas\obj\Debug\netcoreapp3.1\1026ExemploListas.genruntimeconfig.cache
