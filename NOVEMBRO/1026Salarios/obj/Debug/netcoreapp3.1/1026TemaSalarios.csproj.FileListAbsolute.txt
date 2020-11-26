@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\bin\Debug\netcoreapp3.1\1026TemaSalarios.exe
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\bin\Debug\netcoreapp3.1\1026TemaSalarios.deps.json
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\bin\Debug\netcoreapp3.1\1026TemaSalarios.runtimeconfig.json
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\bin\Debug\netcoreapp3.1\1026TemaSalarios.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\bin\Debug\netcoreapp3.1\1026TemaSalarios.dll
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\bin\Debug\netcoreapp3.1\1026TemaSalarios.pdb
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\obj\Debug\netcoreapp3.1\1026TemaSalarios.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\obj\Debug\netcoreapp3.1\1026TemaSalarios.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\obj\Debug\netcoreapp3.1\1026TemaSalarios.AssemblyInfo.cs
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\obj\Debug\netcoreapp3.1\1026TemaSalarios.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\obj\Debug\netcoreapp3.1\1026TemaSalarios.dll
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\obj\Debug\netcoreapp3.1\1026TemaSalarios.pdb
+C:\Users\hatza\source\repos\1026TemaSalarios\1026TemaSalarios\obj\Debug\netcoreapp3.1\1026TemaSalarios.genruntimeconfig.cache

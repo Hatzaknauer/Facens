@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdfuAvoDO395itm1cRE2YrKa3tXBv7i0W7mFPFUWaiKA0KmVPAuDY+rxp/hj8VFckBtO6ufc6+24aRq47ffh5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hatza\\source\\repos\\1026TemaSalarios\\1026TemaSalarios\\1026TemaSalarios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hatza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
