@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Siz8idbzUcCncX6i020b1HGBb8WZuNodV2GgUzcZ4sLHJ+ohBbLf6TuWA33eOlaCjgDltE8Zm9w+lnOhg7p2tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hatza\\source\\repos\\1116ContaBancariaClassesAbstratas\\1116ContaBancariaClassesAbstratas\\1116ContaBancariaClassesAbstratas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hatza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\bin\Debug\netcoreapp3.1\1116FolhaDePagamento.exe
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\bin\Debug\netcoreapp3.1\1116FolhaDePagamento.deps.json
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\bin\Debug\netcoreapp3.1\1116FolhaDePagamento.runtimeconfig.json
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\bin\Debug\netcoreapp3.1\1116FolhaDePagamento.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\bin\Debug\netcoreapp3.1\1116FolhaDePagamento.dll
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\bin\Debug\netcoreapp3.1\1116FolhaDePagamento.pdb
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\obj\Debug\netcoreapp3.1\1116FolhaDePagamento.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\obj\Debug\netcoreapp3.1\1116FolhaDePagamento.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\obj\Debug\netcoreapp3.1\1116FolhaDePagamento.AssemblyInfo.cs
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\obj\Debug\netcoreapp3.1\1116FolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\obj\Debug\netcoreapp3.1\1116FolhaDePagamento.dll
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\obj\Debug\netcoreapp3.1\1116FolhaDePagamento.pdb
+C:\Users\hatza\source\repos\1116FolhaDePagamento\1116FolhaDePagamento\obj\Debug\netcoreapp3.1\1116FolhaDePagamento.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YIzG2VV8XgMFUOdH5sJp03I1QHlohJYL1Q53Ur11+3kksKSLw1lSq7I4ba1Z5osihb2W+GdYKCOyuTKrLab6nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hatza\\source\\repos\\1123LojaDeProdutosPolimorfismo\\1123LojaDeProdutosPolimorfismo\\1123LojaDeProdutosPolimorfismo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hatza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\bin\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.exe
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\bin\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.deps.json
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\bin\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.runtimeconfig.json
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\bin\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.runtimeconfig.dev.json
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\bin\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.dll
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\bin\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.pdb
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\obj\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.csprojAssemblyReference.cache
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\obj\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\obj\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.AssemblyInfo.cs
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\obj\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\obj\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.dll
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\obj\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.pdb
+C:\Users\hatza\source\repos\1123LojaDeProdutosPolimorfismo\1123LojaDeProdutosPolimorfismo\obj\Debug\netcoreapp3.1\1123LojaDeProdutosPolimorfismo.genruntimeconfig.cache
