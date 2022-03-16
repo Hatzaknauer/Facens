@@ -1,2 +1,2 @@
-# ProgramacaoObjetos
-Exercícios de Programação Orientada a Objetos
+# Facens
+Repositório para postagem e compartilhamento dos códigos utilizados e avaliados no curso de Tecnologia em Jogos Digitais
