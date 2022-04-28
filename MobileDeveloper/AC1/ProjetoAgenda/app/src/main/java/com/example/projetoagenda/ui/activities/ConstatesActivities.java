@@ -1,5 +1,5 @@
 package com.example.projetoagenda.ui.activities;
 
-public class ConstatesActivities {
+public interface ConstatesActivities {
     String CHAVE_PERSONAGEM = "personagem";
 }

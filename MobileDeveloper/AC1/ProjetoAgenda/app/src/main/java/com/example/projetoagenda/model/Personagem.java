@@ -50,7 +50,7 @@ public class Personagem implements Serializable {
         return nome;
     }
 
-    public void SetId(int id) {
+    public void setId(int id) {
         this.id = id;
     }
 

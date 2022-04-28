@@ -21,6 +21,12 @@ import com.example.projetoagenda.R;
 import com.example.projetoagenda.PersonagemDAO;
 import com.example.projetoagenda.model.Personagem;
 import com.github.rtoshiro.util.format.MaskFormatter;
+import com.github.rtoshiro.util.format.SimpleMaskFormatter;
+import com.github.rtoshiro.util.format.pattern.MaskPattern;
+import com.github.rtoshiro.util.format.text.MaskTextWatcher;
+
+import static android.media.MediaRecorder.VideoSource.CAMERA;
+import static com.example.projetoagenda.ui.activities.ConstatesActivities.CHAVE_PERSONAGEM;
 
 public class FormularioPersonagemActivity extends AppCompatActivity {
     private static final String TITULO_APPBAR_EDITA_PERSONAGEM = "Editar o Personagem";
@@ -49,9 +55,9 @@ public class FormularioPersonagemActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-        super.onCreate((savedInstanceState)
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_formulario_personagem);
-        incializacaoCampos();
+        inicializacaoCampos();
         //configuraBotaoSalvar();
         carregaPersonagem();
         checaPermissoes();
@@ -81,14 +87,14 @@ public class FormularioPersonagemActivity extends AppCompatActivity {
             dao.edita(personagem);
             finish();
         } else {
-            dao.salva(personagem)
+            dao.salva(personagem);
         }
         finish();
     }
 
     private void inicializacaoCampos() {
         campoNome = findViewById(R.id.editText_nome);
-        campoNascimento = findViewById(editText_nascimento);
+        campoNascimento = findViewById(R.id.editText_nascimento);
         campoAltura = findViewById(R.id.editText_altura);
 
         SimpleMaskFormatter smfAltura = new SimpleMaskFormatter("N,NN");
@@ -102,8 +108,8 @@ public class FormularioPersonagemActivity extends AppCompatActivity {
 
     private void preencherPersonagem() {
         String nome = campoNome.getText().toString();
-        String nascimento = campoNascimento.getText().ToString();
-        String altura = campoAltura.getText().ToString();
+        String nascimento = campoNascimento.getText().toString();
+        String altura = campoAltura.getText().toString();
 
         personagem.setNome(nome);
         personagem.setAltura(altura);
